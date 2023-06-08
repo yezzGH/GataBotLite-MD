@@ -11,9 +11,9 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
 
 global.owner = [
-['584244328894', 'Nose', true], 
-['584127447520', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true],  
-
+['584244328894', 'Insano Bot 👻MD, true], 
+['584127447520', '𝙊𝙬𝙣𝙚𝙧 (1) 💻', true]  
+]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -90,8 +90,8 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'Insano Bot MD 👻'
+global.author = 'Insano Sticker'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
@@ -104,7 +104,7 @@ global.official = [ // Agregate si eres Owner
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.country = '🇻🇪' //agrega tú país ejemplo: 🇪🇨
 
 global.vs = '1.0.2'
 global.vsJB = '3.0'
