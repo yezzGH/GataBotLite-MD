@@ -91,13 +91,13 @@ global.moment = moment
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = 'Insano Bot MD 👻'
-global.author = 'Insano Sticker'
+global.packname = 'InsanoBotMD 👻'
+global.author = 'Sticker'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['18059196237', 'Gata Dios 💻', 1], 
+['584127447520', 'Gata Dios 💻', 1], 
 ['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
 ['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
 ['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
@@ -135,8 +135,8 @@ global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.wm = 'InsanoBot MD👻 : Yezz🗿🔥'
+global.igfg = 'InsanoBotMD'
 global.wait = lenguajeGB['smsMeWait']()
 global.wait2 = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
